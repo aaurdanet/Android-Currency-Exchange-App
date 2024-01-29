@@ -21,7 +21,8 @@ The app uses fixed conversion rates for the selected currencies:
     1 USD = 0.85 EUR
 
 Important Note
+The app includes step-by-step instructions complemented by illustrative images to guide users through its functionality.
 
 This app is designed for educational purposes and assumes fixed conversion rates. In real-world scenarios, currency exchange rates fluctuate, and dynamic data sources should be considered.
 
-Feel free to explore and modify the code based on your needs. If you have any questions or suggestions, please reach out to the developer Antonio Urdaneta.
+Please feel free to explore and modify the code based on what you need. If you have any questions or suggestions, please reach out to the developer Antonio Urdaneta.
