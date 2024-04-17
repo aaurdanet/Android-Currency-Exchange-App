@@ -3,22 +3,22 @@ serves as a simple currency converter. It allows users to convert currency value
 
 Features
 
-    Display Selected Currency: Upon launching the app, it displays the selected currency received from the previous activity.
+Display Selected Currency: Upon launching the app, it displays the selected currency received from the previous activity.
 
-    Convert to USD: Users can enter a value in the input field, select the "Convert to USD" button, and view the equivalent value in USD.
+Convert to USD: Users can enter a value in the input field, select the "Convert to USD" button, and view the equivalent value in USD.
 
-    Convert from USD: Users can enter a value in the input field, select the "Convert from USD" button, and view the equivalent value in the selected currency.
+Convert from USD: Users can enter a value in the input field, select the "Convert from USD" button, and view the equivalent value in the selected currency.
 
-    Return to Previous Activity: The app provides a "Back" button to return to the previous activity.
+Return to Previous Activity: The app provides a "Back" button to return to the previous activity.
 
 
 Currency Conversion Rates
 
 The app uses fixed conversion rates for the selected currencies:
 
-    1 USD = 1.26 CAD
-    1 USD = 109.94 YEN
-    1 USD = 0.85 EUR
+1 USD = 1.26 CAD
+1 USD = 109.94 YEN
+1 USD = 0.85 EUR
 
 Important Note
 The app includes step-by-step instructions complemented by illustrative images to guide users through its functionality.
